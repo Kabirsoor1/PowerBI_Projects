@@ -15,7 +15,8 @@ This repository contains PDF exports of Power BI dashboards built using various 
     
 - **Purpose**: To help stakeholders understand market performance, spot trends, and identify top-selling brands or vehicle categories.
 
-👉 [**View Car Sales Report (PDF)**](./Car_Sales_Report.pdf)
+👉 [**View Car Sales Report (PDF)**](https://github.com/Kabirsoor1/PowerBI_Projects/raw/main/Car%20Sales%20Power%20BI%20Dashboard.pdf)
+
 
 ---
 
