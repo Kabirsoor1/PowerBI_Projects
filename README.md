@@ -30,7 +30,8 @@ This repository contains PDF exports of Power BI dashboards built using various 
   - Job satisfaction and career path trends
 - **Purpose**: To assist aspiring data analysts and HR professionals in understanding the job market, skills in demand, and salary benchmarks.
 
-👉 [**View Data Analyst Survey Report (PDF)**](./Data_Analyst_Survey_Report.pdf)
+👉 [**View Data Analyst Survey Report (PDF)**](https://github.com/Kabirsoor1/PowerBI_Projects/raw/main/Data%20Analyst%20Survey%20Dashboard.pdf)
+
 
 ---
 
